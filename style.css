@@ -1,0 +1,21 @@
+.splash {
+    padding: 30px;
+}
+
+.text {
+    padding: 0 30px;
+    max-width: 500px;
+}
+
+.page-title {
+    font-weight: bold;
+}
+
+.page-autor {
+    font-style: italic;
+}
+
+.page-footer {
+    padding: 30px;
+    font-style: italic;
+}
