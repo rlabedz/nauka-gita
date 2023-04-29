@@ -1,5 +1,6 @@
 .splash {
     padding: 30px;
+    background: grey;
 }
 
 .text {
@@ -18,4 +19,5 @@
 .page-footer {
     padding: 30px;
     font-style: italic;
+    background: blue;
 }
